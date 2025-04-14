@@ -1,1 +1,1 @@
-#!/bin/bash
+#!/bin/bash# Script to interact with periodic table database
